@@ -8,6 +8,7 @@
 + CurrentSplit_RealTime_FinishedAt
 + CurrentSplit_RealTime_Gold
 + CurrentSplit_RealTime_PB
++ CurrentSplit_RealTime_Segment
 + GameName
 + List_CurrentSplitIndicator
 + List_Names
@@ -20,6 +21,7 @@
 + List_RT_Upcoming_GoldTimes
 + List_RT_Upcoming_SegmentTimes
 + PreviousSplit_Name
++ PreviousSplit_RealTime_FinishedAt
 + PreviousSplit_RealTime_Gold
 + PreviousSplit_RealTime_Run
 + PreviousSplit_RealTime_Segment
