@@ -1,6 +1,5 @@
 # LiveSplit.OutputToFile
 ## What information?
-
 + AttemptCount
 + CategoryName
 + CurrentSplit_Index
